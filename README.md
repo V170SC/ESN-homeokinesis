@@ -1,2 +1,2 @@
 # ESN-homeokinesis
-Thesis on homeokinesis and Echo State Network control
+Dissertation on homeokinesis and Echo State Network control
